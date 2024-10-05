@@ -11,16 +11,13 @@ Este é um jogo de cartas matemático simples para ser rodado no console. O obje
 
 ## Instruções para rodar o jogo
 
-<!-- ### 1. Clone o repositório ou baixe os arquivos
+### 1. Clone o repositório ou baixe os arquivos
 //TODO Criar o repositório do jogo
 Você pode clonar o repositório ou baixar os arquivos do jogo em sua máquina local.
 
 ```bash
 git clone https://github.com/exemploUser/jogo-de-cartas-matematico.git
-``` -->
-
-### 1. Clone o repositório ou baixe os arquivos
-Baixe o arquivo .zip, batalhadenumeros.zip e extraia seu conteúdo.
+```
 
 ### 2. Instale as dependências
 
