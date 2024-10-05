@@ -16,7 +16,7 @@ Este é um jogo de cartas matemático simples para ser rodado no console. O obje
 Você pode clonar o repositório ou baixar os arquivos do jogo em sua máquina local.
 
 ```bash
-git clone https://github.com/exemploUser/jogo-de-cartas-matematico.git
+git clone https://github.com/jpaulopereiraaraujo/batalhadosnumeros.git
 ```
 
 ### 2. Instale as dependências
